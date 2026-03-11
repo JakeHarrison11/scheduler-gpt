@@ -2,7 +2,7 @@
 
 ## The Conversation
 [OpenCode session link](https://opncd.ai/share/XLw8y6yM)
-This conversation was carried out by Jake, but both members contributed to the prompt. We decided against having multiple conversations since AI works best in small threads where it can review all the context. Besides, the initial prompt already solved most of the problem with only some additional help required to polish the result. We also had the AI write a simple bash script to verify the output.
+This conversation was carried out by Jake, but both members contributed to the prompt. We decided against having multiple conversations since AI works best in singular threads where it can review all the context. Besides, the initial prompt already solved most of the problem with only some additional help required to polish the result. We also had the AI write a simple bash script to verify the output.
 
 ## Evaluation
 **Correctness: Does the code perform the intended task correctly? Are there any bugs or errors that need to be fixed?**  
@@ -26,4 +26,4 @@ I don't believe it's possible to create an entire app in a language you don't kn
 
 
 **Overall Quality and Final Recommendation: Based on the above criteria, how would you rate the overall quality of the code? Would you recommend any changes or improvements to make the code more effective or efficient? How would you rate your overall experience writing code using the assistance of an AI? Was it easier or harder than you expected? What did you learn through the process? What would you do differently if you had to write code via AI again?**  
-The quality of the code itself is good. As stated previously, it lacks comments, but it performs the task it's meant to and a person could easily add comments given how clear the code already is. 
+The quality of the code itself is good. As stated previously, it lacks comments, but it performs the task it's meant to and a person could easily add comments given how clear the code already is. The overall experience writing code was easy after constructing the initial prompt. Debugging simply consisted of pasting the program output vs the expected output and telling the AI to try it's best to match the expected output. It was much easier than expected. We learned that AI can be a extremely effective prototyping tool and wouldn't do anything differently if we had to write code with AI again.
