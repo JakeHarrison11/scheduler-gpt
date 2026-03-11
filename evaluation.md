@@ -1,5 +1,7 @@
 # PA#1 - The ChatGPT Scheduler
 
+[OpenCode session link](https://opncd.ai/share/XLw8y6yM)
+
 Correctness: Does the code perform the intended task correctly? Are there any bugs or errors that need to be fixed?
 
 Efficiency: Is the code efficient and avoid unnecessary computations or data structures? Can the code be optimized for better performance?
